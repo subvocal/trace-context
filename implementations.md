@@ -51,7 +51,7 @@ PHP
 **Website:** [newrelic.com](https://newrelic.com/)
 
 **Implementations:**
-All agents will support W3C Trace Context, see the list of compatible agents [here](https://docs.newrelic.com/docs/understand-dependencies/distributed-tracing/enable-configure/enable-distributed-tracing#compatibility-requirements)
+All language agents support W3C Trace Context. Check the [documentation](https://docs.newrelic.com/docs/understand-dependencies/distributed-tracing/enable-configure/language-agents-enable-distributed-tracing#update-agents) for the minimum required version for each language.
 
 
 ## OpenCensus
